@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackForwardNavigation", "BackForwardNavigation\BackForwardNavigation.csproj", "{D0337A62-F109-4974-8E57-6405A41EA988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Debug|x64.ActiveCfg = Debug|x64
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Debug|x64.Build.0 = Debug|x64
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Release|x64.ActiveCfg = Release|x64
+		{D0337A62-F109-4974-8E57-6405A41EA988}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E00068C-31F3-4016-8BD6-22905941D401}
+	EndGlobalSection
+EndGlobal
