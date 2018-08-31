@@ -12,5 +12,10 @@ Execute javascript on browser
 
 Execute DotNet method in Javascript
         
+4. Expenselt 
 
-
+cf)
+- Xaml file defines a WPF app resources.
+- MainWindow.xaml defines the properties of a window, such as its title, size, events.
+- Change Window tag to NavigationWindow since NavigationWindow inherits all the properties of Window and it has to navigate different content following the user input.
+- Navigate page with NavigationService.Navigate()
