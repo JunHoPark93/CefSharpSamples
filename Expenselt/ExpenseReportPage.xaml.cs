@@ -22,7 +22,7 @@ namespace Expenselt
     {
         public ExpenseReportPage()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
